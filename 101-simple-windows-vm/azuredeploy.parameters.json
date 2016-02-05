@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "yanzhistore2"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "yanzhi"
     },
     "adminPassword": {
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "yanzhi-trlab1"
+    },
+    "location":{
+      "value": "West US"
+    },
+    "sizeOfDiskInGB":{
+      "value": "20"
     }
   }
 }
