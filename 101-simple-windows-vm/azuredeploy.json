@@ -29,7 +29,7 @@
     "location":{
       "type":"string",
       "defaultValue": "West US",
-        "allowValues":[
+        "allowedValues":[
           "West US",
           "East US 2"
         ],
